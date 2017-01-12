@@ -29,7 +29,7 @@ MAINDIR = '../Solus'
 SRC = 'fullcolor'
 
 # the resolution that non-hi-dpi icons are rendered at
-DPI_1_TO_1 = 90
+DPI_1_TO_1 = 96
 # DPI multipliers to render at
 DPIS = [1, 2]
 
@@ -101,7 +101,7 @@ def main(args, SRC):
                     return
             elif self.inside[-1] == self.SVG:
                 if (name == "g" and ('inkscape:groupmode' in attrs) and ('inkscape:label' in attrs)
-                   and attrs['inkscape:groupmode'] == 'layer' and attrs['inkscape:label'].startswith('Baseplate')):
+                   and attrs['inkscape:groupmode'] == 'layer' and attrs['inkscape:label'].startswith('baseplate')):
                     self.stack.append(self.LAYER)
                     self.inside.append(self.LAYER)
                     self.context = None
@@ -212,3 +212,5 @@ parser.add_argument('filter', type=str, nargs='?', metavar='FILTER',
                     help="Optional filter for the SVG file")
 
 args = parser.parse_args()
+
+main(args, SRC)
