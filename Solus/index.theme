@@ -30,16 +30,16 @@ Type=Fixed
 
 [256x256/actions]
 Context=Actions
-Size=512
+Size=256
 MinSize=64
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 [scalable/actions]
 Context=Actions
 Size=16
 MinSize=16
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 # Animations
@@ -78,16 +78,16 @@ Type=Fixed
 
 [256x256/apps]
 Context=Applications
-Size=512
+Size=256
 MinSize=64
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 [scalable/apps]
 Context=Applications
 Size=16
 MinSize=16
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 
@@ -115,16 +115,16 @@ Type=Fixed
 
 [256x256/categories]
 Context=Categories
-Size=512
+Size=256
 MinSize=64
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 [scalable/categories]
 Context=Categories
 Size=16
 MinSize=16
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 # Devices
@@ -151,16 +151,16 @@ Type=Fixed
 
 [256x256/devices]
 Context=Devices
-Size=512
+Size=256
 MinSize=64
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 [scalable/devices]
 Context=Devices
 Size=16
 MinSize=16
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 # Emblems
@@ -192,16 +192,16 @@ Type=Fixed
 
 [256x256/emblems]
 Context=Emblems
-Size=512
+Size=256
 MinSize=64
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 [scalable/emblems]
 Context=Emblems
 Size=16
 MinSize=16
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 # Emotes
@@ -228,16 +228,16 @@ Type=Fixed
 
 [256x256/emotes]
 Context=Emotes
-Size=512
+Size=256
 MinSize=64
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 [scalable/emotes]
 Context=Emotes
 Size=16
 MinSize=16
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 # MimeTypes
@@ -264,16 +264,16 @@ Type=Fixed
 
 [256x256/mimetypes]
 Context=MimeTypes
-Size=512
+Size=256
 MinSize=64
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 [scalable/mimetypes]
 Context=Mimetypes
 Size=16
 MinSize=16
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 # Notifications
@@ -326,16 +326,16 @@ Type=Fixed
 
 [256x256/places]
 Context=Places
-Size=512
+Size=256
 MinSize=64
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 [scalable/places]
 Context=Places
 Size=16
 MinSize=16
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 # Status
@@ -362,16 +362,16 @@ Type=Fixed
 
 [256x256/status]
 Context=Status
-Size=512
+Size=256
 MinSize=64
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 [scalable/status]
 Context=Status
 Size=16
 MinSize=16
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 # Web
@@ -398,16 +398,16 @@ Type=Fixed
 
 [256x256/web]
 Context=Applications
-Size=512
+Size=256
 MinSize=64
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 [scalable/web]
 Context=Applications
 Size=16
 MinSize=16
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 
@@ -444,9 +444,9 @@ Type=Fixed
 [256x256@2x/actions]
 Context=Actions
 Scale=2
-Size=512
+Size=256
 MinSize=64
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 
@@ -479,9 +479,9 @@ Type=Fixed
 [256x256@2x/apps]
 Context=Apps
 Scale=2
-Size=512
+Size=256
 MinSize=64
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 # Categories
@@ -513,9 +513,9 @@ Type=Fixed
 [256x256@2x/categories]
 Context=Categories
 Scale=2
-Size=512
+Size=256
 MinSize=64
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 # Devices
@@ -547,9 +547,9 @@ Type=Fixed
 [256x256@2x/devices]
 Context=Devices
 Scale=2
-Size=512
+Size=256
 MinSize=64
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 
@@ -588,9 +588,9 @@ Type=Fixed
 [256x256@2x/emblems]
 Context=Emblems
 Scale=2
-Size=512
+Size=256
 MinSize=64
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 # Emotes
@@ -622,9 +622,9 @@ Type=Fixed
 [256x256@2x/emotes]
 Context=Emotes
 Scale=2
-Size=512
+Size=256
 MinSize=64
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 # MimeTypes
@@ -656,9 +656,9 @@ Type=Fixed
 [256x256@2x/mimetypes]
 Context=Mimetypes
 Scale=2
-Size=512
+Size=256
 MinSize=64
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 # Places
@@ -690,9 +690,9 @@ Type=Fixed
 [256x256@2x/places]
 Context=Places
 Scale=2
-Size=512
+Size=256
 MinSize=64
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 # Status
@@ -724,9 +724,9 @@ Type=Fixed
 [256x256@2x/status]
 Context=Status
 Scale=2
-Size=512
+Size=256
 MinSize=64
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 # Web
@@ -758,7 +758,7 @@ Type=Fixed
 [256x256@2x/web]
 Context=Applications
 Scale=2
-Size=512
+Size=256
 MinSize=64
-MaxSize=512
+MaxSize=256
 Type=Scalable
