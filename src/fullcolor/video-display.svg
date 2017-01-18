@@ -387,8 +387,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="729.72862"
-     inkscape:cy="58.294548"
+     inkscape:cx="737.51702"
+     inkscape:cy="219.44868"
      inkscape:current-layer="g4684"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -843,7 +843,7 @@
          id="path4764"
          d="m 740.5,122 2,3 H 741 v 7 h 5 v -1.5 l 3,2 -3,2 V 133 h -5 v 4 h 1.5 l -2,3 -2,-3 h 1.5 v -4 h -14 v 1.5 l -3,-2 3,-2 v 1.5 h 14 v -7 h -1.5 z" />
       <path
-         d="m 749.5,51 2.5,4 h -2 v 12 h 10 v -2 l 4,2.5 -4,2.5 v -2 h -10 v 7 h 2 l -2.5,4 -2.5,-4 h 2 v -7 h -21 v 2 l -4,-2.5 4,-2.5 v 2 h 21 V 55 h -2 z"
+         d="m 749.5,51 2,4 H 750 v 12 h 10 v -1.5 l 4,2 -4,2 V 68 h -10 v 7 h 1.5 l -2,4 -2,-4 h 1.5 v -7 h -21 v 1.5 l -4,-2 4,-2 V 67 h 21 V 55 h -1.5 z"
          id="path4766"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
          inkscape:connector-curvature="0"
@@ -875,9 +875,9 @@
       <path
          sodipodi:nodetypes="ccccccccccccccccccccccccc"
          inkscape:connector-curvature="0"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d7dadf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate;opacity:1"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#d7dadf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
          id="path4751"
-         d="m 749.5,50 2.5,4 h -2 v 12 h 10 v -2 l 4,2.5 -4,2.5 v -2 h -10 v 7 h 2 l -2.5,4 -2.5,-4 h 2 v -7 h -21 v 2 l -4,-2.5 4,-2.5 v 2 h 21 V 54 h -2 z" />
+         d="m 749.5,50 2,4 H 750 v 12 h 10 v -1.5 l 4,2 -4,2 V 67 h -10 v 7 h 1.5 l -2,4 -2,-4 h 1.5 v -7 h -21 v 1.5 l -4,-2 4,-2 V 66 h 21 V 54 h -1.5 z" />
       <path
          sodipodi:nodetypes="ccccccccccccccccccccccccc"
          inkscape:connector-curvature="0"
