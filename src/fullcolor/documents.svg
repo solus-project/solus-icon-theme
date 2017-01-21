@@ -116,8 +116,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="2246.209"
-     inkscape:cy="542.57863"
+     inkscape:cx="1908.25"
+     inkscape:cy="510.5"
      inkscape:current-layer="g4828"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -1169,13 +1169,13 @@
          id="path5012-7"
          inkscape:connector-curvature="0" />
       <path
-         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;enable-background:new;opacity:0.4"
+         style="display:inline;fill:#015faf;fill-opacity:1;stroke:none;stroke-width:2;enable-background:new;opacity:0.4"
          d="m 2293,-334 v 1 h 22 v -1 z m 0,3 v 1 h 22 v -1 z m 0,3 v 1 h 22 v -1 z m 0,3 v 1 h 22 v -1 z m 0,3.00195 V -321 l 22,-0.002 V -322 Z m 0,3 V -318 l 15,-0.002 V -319 Z"
          id="path5014-5"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
       <path
-         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;enable-background:new;opacity:0.4"
+         style="display:inline;fill:#015faf;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;enable-background:new;opacity:0.4"
          d="m 2056,-260 v 4 h 128 v -4 z m 0,16 v 4 h 128 v -4 z m 0,15.94531 V -224 h 128 v -4.05469 z m 0,16 V -208 h 128 v -4.05469 z M 2056,-196 v 4 h 128 v -4 z m 0,16 v 4 h 96 v -4 z"
          id="path5016-3"
          inkscape:connector-curvature="0"
@@ -1186,7 +1186,7 @@
          id="rect7411"
          inkscape:connector-curvature="0" />
       <path
-         style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.3612;stroke-opacity:1;enable-background:new"
+         style="display:inline;fill:#015faf;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.3612;stroke-opacity:1;enable-background:new"
          d="m 2298.5,-262.5 v 2 h 1 v 2 h -1 v 2 h 4 v -2 h -1 v -2 h 1 v -2 z"
          id="path7562"
          inkscape:connector-curvature="0" />
@@ -2022,6 +2022,12 @@
          id="path5037"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccssscccsccccssscccscccsccssscssscccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5056"
+         d="m 1906,226 v 1 c -0.831,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669,1.5 1.5,1.5 v 1 h -1.4082 c 0.206,0.58192 0.754,1 1.4082,1 v 1 h 1 v -1 c 0.831,0 1.5,-0.669 1.5,-1.5 0,-0.831 -0.669,-1.5 -1.5,-1.5 v -1 h 1.4082 c -0.206,-0.58192 -0.754,-1 -1.4082,-1 v -1 z m 0,2 v 1 c -0.277,0 -0.5,-0.223 -0.5,-0.5 0,-0.277 0.223,-0.5 0.5,-0.5 z m 1,2 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 z m 2,2 v 1 h 3 v -1 z"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#85b3df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         sodipodi:nodetypes="ccscccccccsccccccccsccsccccscc" />
     </g>
   </g>
 </svg>
