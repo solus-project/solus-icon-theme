@@ -22,7 +22,7 @@ require "fileutils"
 include REXML
 
 INKSCAPE = '/usr/bin/inkscape'
-SRC = "symbolic/source-symbolic.svg"
+SRC = "source-symbolic.svg"
 PREFIX = "../Solus/scalable"
 
 def chopSVG(icon)
