@@ -1,9 +1,11 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='display-brightness-symbolic.svg' inkscape:export-filename='/home/sam/source-symbolic.png' inkscape:export-xdpi='270' inkscape:export-ydpi='270' height='16' id='svg7384' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' style='enable-background:new' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' inkscape:version='0.91 r' width='16' xmlns='http://www.w3.org/2000/svg'>
-  <sodipodi:namedview inkscape:bbox-nodes='true' inkscape:bbox-paths='false' bordercolor='#666666' borderlayer='false' borderopacity='1' inkscape:current-layer='layer9' inkscape:cx='-10.906807' inkscape:cy='139.38299' gridtolerance='10' inkscape:guide-bbox='true' guidetolerance='10' id='namedview88' inkscape:object-nodes='true' inkscape:object-paths='true' objecttolerance='10' pagecolor='#f7f7f7' inkscape:pageopacity='1' inkscape:pageshadow='2' showborder='true' showgrid='false' showguides='true' inkscape:showpageshadow='false' inkscape:snap-bbox='true' inkscape:snap-bbox-edge-midpoints='false' inkscape:snap-bbox-midpoints='true' inkscape:snap-center='false' inkscape:snap-global='true' inkscape:snap-grids='true' inkscape:snap-intersection-paths='false' inkscape:snap-midpoints='true' inkscape:snap-nodes='true' inkscape:snap-object-midpoints='true' inkscape:snap-others='true' inkscape:snap-page='false' inkscape:snap-smooth-nodes='true' inkscape:snap-to-guides='true' inkscape:window-height='1023' inkscape:window-maximized='1' inkscape:window-width='1920' inkscape:window-x='0' inkscape:window-y='27' inkscape:zoom='1'>
-    <inkscape:grid color='#000000' dotted='false' empcolor='#0800ff' empopacity='0.4627451' empspacing='4' enabled='true' id='grid4866' opacity='0.16470588' originx='-124.0002' originy='-512.00336' snapvisiblegridlinesonly='true' spacingx='0.25px' spacingy='0.25px' type='xygrid' visible='true'/>
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='display-brightness-symbolic.svg' inkscape:export-filename='/home/sam/source-symbolic.png' inkscape:export-xdpi='270' inkscape:export-ydpi='270' height='16' id='svg7384' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' style='enable-background:new' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' inkscape:version='0.92.0 r' width='16' xmlns='http://www.w3.org/2000/svg'>
+  <sodipodi:namedview inkscape:bbox-nodes='true' inkscape:bbox-paths='false' bordercolor='#666666' borderlayer='false' borderopacity='1' inkscape:current-layer='layer9' inkscape:cx='12.506914' inkscape:cy='-3.4710369' gridtolerance='10' inkscape:guide-bbox='true' guidetolerance='10' id='namedview88' inkscape:measure-end='0,0' inkscape:measure-start='0,0' inkscape:object-nodes='true' inkscape:object-paths='true' objecttolerance='10' pagecolor='#fafafa' inkscape:pageopacity='1' inkscape:pageshadow='2' showborder='true' showgrid='false' showguides='false' inkscape:showpageshadow='false' inkscape:snap-bbox='true' inkscape:snap-bbox-edge-midpoints='false' inkscape:snap-bbox-midpoints='true' inkscape:snap-center='false' inkscape:snap-global='true' inkscape:snap-grids='true' inkscape:snap-intersection-paths='false' inkscape:snap-midpoints='true' inkscape:snap-nodes='true' inkscape:snap-object-midpoints='true' inkscape:snap-others='true' inkscape:snap-page='false' inkscape:snap-smooth-nodes='true' inkscape:snap-to-guides='true' inkscape:window-height='1016' inkscape:window-maximized='1' inkscape:window-width='1920' inkscape:window-x='0' inkscape:window-y='27' inkscape:zoom='1'>
+    <inkscape:grid color='#000000' dotted='false' empcolor='#0800ff' empopacity='0.4627451' empspacing='4' enabled='true' id='grid4866' opacity='0.16470588' originx='-756.00017' originy='-132.00336' snapvisiblegridlinesonly='true' spacingx='0.25' spacingy='0.25' type='xygrid' visible='true'/>
+    <sodipodi:guide id='guide6512' inkscape:locked='false' orientation='0,1' position='-756.00017,267.99664'/>
+    <sodipodi:guide id='guide6516' inkscape:locked='false' orientation='1,0' position='-276.00017,395.99664'/>
   </sodipodi:namedview>
   <metadata id='metadata90'>
     <rdf:RDF>
@@ -11,22 +13,27 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
         <dc:title>Solus Symbolic Icon Theme</dc:title>
-        <cc:license rdf:resource='http://creativecommons.org/licenses/by-sa/3.0/'/>
+        <cc:license rdf:resource='http://creativecommons.org/licenses/by-nc/4.0/'/>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Sam Hewitt</dc:title>
+          </cc:Agent>
+        </dc:creator>
       </cc:Work>
-      <cc:License rdf:about='http://creativecommons.org/licenses/by-sa/3.0/'>
+      <cc:License rdf:about='http://creativecommons.org/licenses/by-nc/4.0/'>
         <cc:permits rdf:resource='http://creativecommons.org/ns#Reproduction'/>
         <cc:permits rdf:resource='http://creativecommons.org/ns#Distribution'/>
         <cc:requires rdf:resource='http://creativecommons.org/ns#Notice'/>
         <cc:requires rdf:resource='http://creativecommons.org/ns#Attribution'/>
+        <cc:prohibits rdf:resource='http://creativecommons.org/ns#CommercialUse'/>
         <cc:permits rdf:resource='http://creativecommons.org/ns#DerivativeWorks'/>
-        <cc:requires rdf:resource='http://creativecommons.org/ns#ShareAlike'/>
       </cc:License>
     </rdf:RDF>
   </metadata>
   <title id='title8473'>Solus Symbolic Icon Theme</title>
   <defs id='defs7386'>
     <linearGradient id='linearGradient6882' osb:paint='solid'>
-      <stop id='stop6884' offset='0' style='stop-color:#4c5263;stop-opacity:1;'/>
+      <stop id='stop6884' offset='0' style='stop-color:#555555;stop-opacity:1;'/>
     </linearGradient>
     <linearGradient id='linearGradient5606' osb:paint='solid'>
       <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
@@ -35,15 +42,18 @@
       <feBlend inkscape:collect='always' id='feBlend7556' in2='BackgroundImage' mode='darken'/>
     </filter>
   </defs>
-  <g inkscape:groupmode='layer' id='layer9' inkscape:label='status' style='display:inline' transform='translate(-365.0004,295.00336)'>
-    <path inkscape:connector-curvature='0' d='m 373.0002,-294.28125 c -0.73799,0.72824 -1.44477,1.55677 -2.19141,2.28125 l -2.80859,0 0,2.80859 c -0.72459,0.74666 -1.55292,1.4534 -2.28125,2.19141 0.72849,0.73824 1.55656,1.47349 2.28125,2.22266 l 0,2.77734 2.80664,0 c 0.74736,0.725 1.45473,1.55231 2.19336,2.28125 0.73886,-0.7291 1.47479,-1.55615 2.22461,-2.28125 l 2.77539,0 0,-2.77734 c 0.72474,-0.74912 1.5527,-1.48443 2.28125,-2.22266 -0.72829,-0.73805 -1.5567,-1.44467 -2.28125,-2.19141 l 0,-2.80859 -2.77734,0 c -0.74913,-0.72473 -1.48445,-1.55272 -2.22266,-2.28125 z m 0,3.28125 c 2.20914,0 4,1.79086 4,4 0,2.20914 -1.79086,4 -4,4 -2.20914,0 -4,-1.79086 -4,-4 0,-2.20914 1.79086,-4 4,-4 z m 0,1 c -1.65685,0 -3,1.34315 -3,3 0,1.65685 1.34315,3 3,3 z' id='path7818' sodipodi:nodetypes='cccccccccccccccccssssscscc' style='fill:#4d4d4d;fill-opacity:1;stroke:none'/>
+  <g inkscape:groupmode='layer' id='layer9' inkscape:label='status' style='display:inline' transform='translate(-997.00037,-84.996643)'>
+    <path inkscape:connector-curvature='0' d='m 1005.0002,88 c -2.7614,0 -5,2.23858 -5,5 0,2.76142 2.2386,5 5,5 2.7614,0 5,-2.23858 5,-5 0,-2.76142 -2.2386,-5 -5,-5 z m 0,1 c 2.2091,0 4,1.79086 4,4 0,2.20914 -1.7909,4 -4,4 z' id='path7582' style='opacity:1;fill:#4f555d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1'/>
     
+    <path inkscape:connector-curvature='0' d='m 1010.0002,88.5 c 0,-0.5 -0.5,-0.5 -0.5,-0.5 l -1.0156,-8.64e-4 1.5165,1.516419 z M 1001.5158,87.999136 1000.5002,88 c 0,0 -0.5,0 -0.5,0.5 l -5e-4,1.015569 z m 8.4853,8.485281 -1.5165,1.516419 L 1009.5002,98 c 0,0 0.5,0 0.5,-0.5 z m -10.00175,0 8.5e-4,1.015583 c 0,0.5 0.5,0.5 0.5,0.5 l 1.0152,8.5e-4 z' id='path7578' sodipodi:nodetypes='cccccccccccccccccccc' style='opacity:1;fill:#4f555d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1'/>
+    <path inkscape:connector-curvature='0' d='m 1011.7177,93.353534 c 0.3536,-0.353554 0,-0.707107 0,-0.707107 l -0.7175,-0.718749 v 2.144598 z m -5.6452,-6.353541 -0.7187,-0.717527 c 0,0 -0.3536,-0.353554 -0.7072,0 l -0.7184,0.717762 z m 0,12.000012 -2.1446,-5.7e-5 0.7187,0.717547 c 0,0 0.3536,0.353555 0.7072,0 z m -7.07229,-7.072305 -0.71752,0.718727 c -0.35356,0.353553 0,0.707107 0,0.707107 l 0.71725,0.718456 z' id='path7602' sodipodi:nodetypes='cccccccccccccccccccc' style='opacity:1;fill:#4f555d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1'/>
   </g>
-  <g inkscape:groupmode='layer' id='layer10' inkscape:label='devices' style='display:inline;filter:url(#filter7554)' transform='translate(-365.0004,295.00336)'/>
-  <g inkscape:groupmode='layer' id='layer1' inkscape:label='places' style='display:inline' transform='translate(-124.0002,-321.99664)'/>
-  <g inkscape:groupmode='layer' id='layer14' inkscape:label='mimetypes' style='display:inline' transform='translate(-365.0004,295.00336)'/>
-  <g inkscape:groupmode='layer' id='layer15' inkscape:label='emblems' style='display:inline' transform='translate(-365.0004,295.00336)'/>
-  <g inkscape:groupmode='layer' id='g71291' inkscape:label='emotes' style='display:inline' transform='translate(-365.0004,295.00336)'/>
-  <g inkscape:groupmode='layer' id='layer2' inkscape:label='categories' style='display:inline' transform='translate(-124.0002,-171.99664)'/>
-  <g inkscape:groupmode='layer' id='layer12' inkscape:label='actions' style='display:inline' transform='translate(-365.0004,295.00336)'/>
+  <g inkscape:groupmode='layer' id='layer10' inkscape:label='devices' style='display:inline;filter:url(#filter7554)' transform='translate(-997.00037,-84.996643)'/>
+  <g inkscape:groupmode='layer' id='layer1' inkscape:label='places' style='display:inline' transform='translate(-756.00017,-701.99664)'/>
+  <g inkscape:groupmode='layer' id='layer14' inkscape:label='mimetypes' style='display:inline' transform='translate(-997.00037,-84.996643)'/>
+  <g inkscape:groupmode='layer' id='layer15' inkscape:label='emblems' style='display:inline' transform='translate(-997.00037,-84.996643)'/>
+  <g inkscape:groupmode='layer' id='g71291' inkscape:label='emotes' style='display:inline' transform='translate(-997.00037,-84.996643)'/>
+  <g inkscape:groupmode='layer' id='layer2' inkscape:label='categories' style='display:inline' transform='translate(-756.00017,-551.99664)'/>
+  <g inkscape:groupmode='layer' id='layer12' inkscape:label='actions' style='display:inline' transform='translate(-997.00037,-84.996643)'/>
+  <g inkscape:groupmode='layer' id='layer3' inkscape:label='apps' transform='translate(-756.00017,-811.99664)'/>
 </svg>
