@@ -29,6 +29,18 @@
      id="defs3">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient4827">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.46875"
+         offset="0"
+         id="stop4823" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop4825" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient4808">
       <stop
          style="stop-color:#000000;stop-opacity:1"
@@ -196,6 +208,36 @@
        y1="244"
        x2="160"
        y2="36" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4827"
+       id="linearGradient4829"
+       x1="325"
+       y1="132"
+       x2="347"
+       y2="132"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-468,204)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4827"
+       id="linearGradient4833"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.47619049,0,0,0.47619049,-387.50001,265.14285)"
+       x1="325"
+       y1="132"
+       x2="347"
+       y2="132" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4827"
+       id="linearGradient4837"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.76190476,0,0,0.76190476,-440.49999,231.92855)"
+       x1="325"
+       y1="132"
+       x2="347"
+       y2="132" />
   </defs>
   <sodipodi:namedview
      stroke="#ef2929"
@@ -207,8 +249,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="344"
-     inkscape:cy="218.38351"
+     inkscape:cx="343.03797"
+     inkscape:cy="158.63824"
      inkscape:current-layer="layer9"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -531,6 +573,27 @@
          d="m 344,84.507084 a 16.5,16.5 0 0 1 -16.5,-16.5 16.5,16.5 0 0 1 0.0215,-0.585938 16.5,16.5 0 0 0 16.4785,16.085938 16.5,16.5 0 0 0 16.47852,-15.914062 16.5,16.5 0 0 1 0.0215,0.414062 16.5,16.5 0 0 1 -16.5,16.5 z"
          style="opacity:0.2;fill:#222222;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0" />
+      <circle
+         style="opacity:0.4;fill:none;fill-opacity:1;stroke:url(#linearGradient4829);stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4821"
+         cx="-132"
+         cy="336"
+         r="10.5"
+         transform="rotate(-90)" />
+      <circle
+         transform="rotate(-90)"
+         r="5"
+         cy="328"
+         cx="-227.5"
+         id="circle4831"
+         style="opacity:0.4;fill:none;fill-opacity:1;stroke:url(#linearGradient4833);stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         style="opacity:0.4;fill:none;fill-opacity:1;stroke:url(#linearGradient4837);stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle4835"
+         cx="-184.5"
+         cy="332.5"
+         r="7.9999995"
+         transform="rotate(-90)" />
     </g>
   </g>
 </svg>
