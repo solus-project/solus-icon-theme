@@ -1,6 +1,6 @@
 # Solus Icon Theme
 
-Solus the official theme of the [Solus Project](https://solus-project.com/). As a FreeDesktop icon theme it (loosely) follows the [Tango Icon Spec](http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines).
+Solus is the official icon set of the [Solus Project](https://solus-project.com/). As a FreeDesktop icon theme it (loosely) follows the [Tango Icon Spec](http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines).
 
 These icons are licensed openly under the terms of a [Creative Commons Attribution-ShareAlike 4.0](COPYING) license.
 
