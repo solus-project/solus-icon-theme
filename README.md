@@ -1,6 +1,8 @@
 # Solus Icon Theme
 
-Solus the official theme of the [Solus Project](https://solus-project.com/). These icons are licensed openly under the terms of a [Creative Commons Attribution-ShareAlike 4.0](COPYING) license.
+Solus the official theme of the [Solus Project](https://solus-project.com/). As a FreeDesktop icon theme it (loosely) follows the [Tango Icon Spec](http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines).
+
+These icons are licensed openly under the terms of a [Creative Commons Attribution-ShareAlike 4.0](COPYING) license.
 
 ## Not a Universal Icon Set
 Since this set is designed specifically for Solus (and the Budgie desktop), pull requests to add icons or symlinks that are specific to other desktop environments may be rejected.
