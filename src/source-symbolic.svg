@@ -34,13 +34,13 @@
      inkscape:window-height="1016"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="114.51886"
-     inkscape:cy="456.86179"
+     inkscape:zoom="8"
+     inkscape:cx="647.14927"
+     inkscape:cy="278.44207"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="layer9"
      showborder="true"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
@@ -3889,27 +3889,6 @@
          width="16"
          id="rect7348"
          style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none" />
-    </g>
-    <g
-       inkscape:label="network-cellular-acquiring"
-       id="g7393">
-      <rect
-         y="-54.998131"
-         x="757.00354"
-         height="16"
-         width="16"
-         id="rect7387"
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none" />
-      <path
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#4f555d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate;opacity:0.4"
-         d="M 529.50391 323.00195 C 529.22691 323.00195 529.00391 323.22495 529.00391 323.50195 L 529.00391 325 L 531.00391 325 L 531.00391 323.50195 C 531.00391 323.22495 530.78091 323.00195 530.50391 323.00195 L 529.50391 323.00195 z M 520.00391 331 L 520.00391 333.50195 C 520.00391 333.77895 520.22691 334.00195 520.50391 334.00195 L 521.50391 334.00195 C 521.78091 334.00195 522.00391 333.77895 522.00391 333.50195 L 522.00391 331 L 520.00391 331 z M 523.00391 331 L 523.00391 333.50195 C 523.00391 333.77895 523.22691 334.00195 523.50391 334.00195 L 524.50391 334.00195 C 524.78091 334.00195 525.00391 333.77895 525.00391 333.50195 L 525.00391 331 L 523.00391 331 z M 526.00391 331 L 526.00391 333.50195 C 526.00391 333.77895 526.22691 334.00195 526.50391 334.00195 L 527.50391 334.00195 C 527.78091 334.00195 528.00391 333.77895 528.00391 333.50195 L 528.00391 331 L 526.00391 331 z M 529.00391 331 L 529.00391 333.50195 C 529.00391 333.77895 529.22691 334.00195 529.50391 334.00195 L 530.50391 334.00195 C 530.78091 334.00195 531.00391 333.77895 531.00391 333.50195 L 531.00391 331 L 529.00391 331 z M 517.50391 331.00195 C 517.22691 331.00195 517.00391 331.22495 517.00391 331.50195 L 517.00391 333.50195 C 517.00391 333.77895 517.22691 334.00195 517.50391 334.00195 L 518.50391 334.00195 C 518.78091 334.00195 519.00391 333.77895 519.00391 333.50195 L 519.00391 331.50195 C 519.00391 331.22495 518.78091 331.00195 518.50391 331.00195 L 517.50391 331.00195 z "
-         transform="translate(241.0002,-375)"
-         id="path7389" />
-      <path
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4f555d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
-         d="m 760.00312,-48.99478 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 0,-1.108 -0.892,-2 -2,-2 z m 5,0 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 0,-1.108 -0.892,-2 -2,-2 z m 5,0 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 0,-1.108 -0.892,-2 -2,-2 z"
-         id="path7391"
-         inkscape:connector-curvature="0" />
     </g>
     <g
        id="g7589"
