@@ -1,4 +1,4 @@
-### Solus Icon Theme
+# Solus Icon Theme
 
 Solus the official theme of the [Solus Project](https://solus-project.com/). These icons are licensed openly under the terms of a [Creative Commons Attribution-ShareAlike 4.0](COPYING) license.
 
