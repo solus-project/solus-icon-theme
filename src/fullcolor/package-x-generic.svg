@@ -72,7 +72,7 @@
        x2="344"
        y2="52"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,2)" />
+       gradientTransform="matrix(1.1111112,0,0,1.0606061,-38.222223,-2.1515151)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4525"
@@ -82,7 +82,7 @@
        x2="344"
        y2="55"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,2)" />
+       gradientTransform="matrix(1.1111112,0,0,1.0606061,-38.222223,-2.1515151)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4513"
@@ -148,7 +148,7 @@
        xlink:href="#linearGradient4513"
        id="linearGradient4667"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(6.6666666,0,0,6.3461539,-2133.3333,-286.00001)"
+       gradientTransform="matrix(6.6666666,0,0,6.3461539,-2133.3333,-278.00001)"
        x1="344"
        y1="88.557579"
        x2="344"
@@ -184,7 +184,7 @@
        xlink:href="#linearGradient4525"
        id="linearGradient4715"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(6.3714284,0,0,6.1612906,-2031.7714,-270.96767)"
+       gradientTransform="matrix(6.3714284,0,0,6.1612906,-2031.7714,-262.96767)"
        x1="345.88342"
        y1="52.418835"
        x2="345.88342"
@@ -194,7 +194,7 @@
        xlink:href="#linearGradient4726"
        id="linearGradient4720"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(6.3714284,0,0,6.1612906,-2031.7714,-566.96767)"
+       gradientTransform="matrix(6.3714284,0,0,6.1612906,-2031.7714,-574.96767)"
        x1="345.88342"
        y1="52.418835"
        x2="345.88342"
@@ -210,8 +210,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="303.65103"
-     inkscape:cy="158.98236"
+     inkscape:cx="1850.5083"
+     inkscape:cy="-212.94675"
      inkscape:current-layer="layer9"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -397,17 +397,35 @@
        inkscape:label="icons"
        style="display:inline">
       <rect
+         ry="2"
+         y="54.000004"
+         x="324"
+         height="33.939396"
+         width="40"
+         id="rect4730"
+         style="opacity:0.05;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         rx="2.0000002" />
+      <rect
+         rx="2.0000002"
+         style="opacity:0.05;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4728"
+         width="40"
+         height="33.939396"
+         x="324"
+         y="54.000004"
+         ry="2" />
+      <rect
          style="opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4701)"
          id="rect4705"
          width="224"
          height="192"
          x="48"
-         y="52"
+         y="60"
          ry="12"
          rx="12" />
       <rect
          ry="12"
-         y="53"
+         y="61"
          x="48"
          height="192"
          width="224"
@@ -434,34 +452,34 @@
          rx="2" />
       <rect
          ry="2"
-         y="55"
-         x="326"
-         height="32"
-         width="36"
+         y="54.060608"
+         x="324"
+         height="33.939396"
+         width="40"
          id="rect4529"
          style="opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         rx="2" />
+         rx="2.0000002" />
       <rect
          ry="2"
-         y="54"
-         x="326"
-         height="32"
-         width="36"
+         y="53.000004"
+         x="324"
+         height="33.939396"
+         width="40"
          id="rect4517"
          style="opacity:0.8;fill:none;fill-opacity:1;stroke:#594739;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         rx="2" />
+         rx="2.0000002" />
       <rect
          style="opacity:1;fill:url(#linearGradient4515);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4504"
-         width="36"
-         height="32"
-         x="326"
-         y="54"
+         width="40"
+         height="33.939396"
+         x="324"
+         y="53.000004"
          ry="2"
-         rx="2" />
+         rx="2.0000002" />
       <g
          style="display:inline;enable-background:new"
-         transform="translate(319.97844,43.999875)"
+         transform="translate(319.97844,42.999875)"
          id="g4284">
         <path
            inkscape:connector-curvature="0"
@@ -506,10 +524,10 @@
       <rect
          style="opacity:0.4;fill:none;fill-opacity:1;stroke:url(#linearGradient4527);stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4519"
-         width="35"
-         height="31"
-         x="326.5"
-         y="54.5"
+         width="38.888893"
+         height="32.878788"
+         x="324.55557"
+         y="53.530304"
          ry="1.5"
          rx="1.5" />
       <rect
@@ -699,11 +717,11 @@
          width="224"
          height="192"
          x="48"
-         y="52"
+         y="60"
          ry="12" />
       <g
          id="g4695"
-         transform="matrix(0.5,0,0,0.5,104.5,28.439999)">
+         transform="matrix(0.5,0,0,0.5,104.5,36.439999)">
         <path
            d="M 95,47.120002 V 223.12 c 0,8.8 7.16,16 16,16 8.84,0 16,-7.2 16,-16 V 47.120002 Z"
            id="path4438"
@@ -747,12 +765,12 @@
          width="223"
          height="191"
          x="48.5"
-         y="52.5"
+         y="60.5"
          ry="11.5"
          rx="11.5" />
       <rect
          ry="11.5"
-         y="-243.5"
+         y="-251.5"
          x="48.5"
          height="191"
          width="223"
