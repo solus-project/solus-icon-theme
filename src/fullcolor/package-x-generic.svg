@@ -150,9 +150,9 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(6.6666666,0,0,6.3461539,-2133.3333,-278.00001)"
        x1="344"
-       y1="88.557579"
+       y1="106.20606"
        x2="344"
-       y2="48.218182" />
+       y2="67.127274" />
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -210,8 +210,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="332.05358"
-     inkscape:cy="157.38504"
+     inkscape:cx="216.80173"
+     inkscape:cy="238.36936"
      inkscape:current-layer="layer9"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -775,7 +775,7 @@
          height="191"
          width="223"
          id="rect4718"
-         style="opacity:0.2;fill:none;fill-opacity:1;stroke:url(#linearGradient4720);stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:0.2;fill:none;fill-opacity:1;stroke:url(#linearGradient4720);stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          rx="11.5"
          transform="scale(1,-1)" />
     </g>
