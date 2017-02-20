@@ -17,7 +17,7 @@
    id="svg11300"
    sodipodi:version="0.32"
    inkscape:version="0.92.0 r"
-   sodipodi:docname="Solus Icon Template.svg"
+   sodipodi:docname="Template.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    style="display:inline;enable-background:new"
@@ -36,9 +36,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-283.66873"
-     inkscape:cy="82.16723"
-     inkscape:current-layer="layer1"
+     inkscape:cx="312.33127"
+     inkscape:cy="70.16723"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -222,5 +222,9 @@
        id="layer9"
        inkscape:label="icons"
        style="display:inline" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="emblems" />
   </g>
 </svg>
