@@ -293,8 +293,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="331.48976"
-     inkscape:cy="74.630687"
+     inkscape:cx="519.6604"
+     inkscape:cy="-544.57868"
      inkscape:current-layer="layer9"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -967,7 +967,7 @@
          ry="0.5" />
       <path
          style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23809513;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="M 324,224.46428 325.46428,223 l 6.29971,0.007 1.22023,1.22023 v 3.23923 c 0,0 -0.97618,0 -0.97618,0.97619 0,0.54573 0.97618,1.22026 0.97618,1.22026 v 3.87296 l -1.46426,1.46427 -6.05568,-0.007 L 324,233.52883 v -3.62891 c 0,0 0.97619,-0.84474 0.97619,-1.46427 0,-0.97618 -0.97619,-0.97618 -0.97619,-0.97618 z"
+         d="m 324,223.96414 1.46428,-1.46428 6.29971,0.007 1.22023,1.22023 v 3.23923 c 0,0 -0.97618,0 -0.97618,0.97619 0,0.54573 0.97618,1.22026 0.97618,1.22026 v 3.87296 L 331.51996,234.5 325.46428,234.493 324,233.02869 v -3.62891 c 0,0 0.97619,-0.84474 0.97619,-1.46427 0,-0.97618 -0.97619,-0.97618 -0.97619,-0.97618 z"
          id="path4686"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccsccccccscc" />
@@ -979,10 +979,10 @@
          style="opacity:1;fill:url(#linearGradient4672);fill-opacity:1;stroke:none;stroke-width:0.23809513;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <circle
          r="2.5"
-         style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11538462;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11538462;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle4680"
          cx="328.5"
-         cy="230.5" />
+         cy="230" />
       <circle
          cy="229.5"
          cx="328.5"
