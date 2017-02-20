@@ -594,8 +594,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1139.788"
-     inkscape:cy="110.9787"
+     inkscape:cx="974.31788"
+     inkscape:cy="238.94563"
      inkscape:current-layer="g4648"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -1317,11 +1317,6 @@
          d="m 848,194 v 1 c 0,1.108 0.892,2 2,2 h 220 c 1.108,0 2,-0.892 2,-2 v -1 c 0,1.108 -0.892,2 -2,2 H 850 c -1.108,0 -2,-0.892 -2,-2 z"
          style="display:inline;opacity:0.5;fill:#c5e2f6;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new" />
       <path
-         style="display:inline;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
-         d="m 848,47 v -1 c 0,-1.108 0.892,-2 2,-2 h 220 c 1.108,0 2,0.892 2,2 v 1 c 0,-1.108 -0.892,-2 -2,-2 H 850 c -1.108,0 -2,0.892 -2,2 z"
-         id="path5063"
-         inkscape:connector-curvature="0" />
-      <path
          sodipodi:nodetypes="ccccccccc"
          inkscape:connector-curvature="0"
          id="path4362"
@@ -1426,6 +1421,11 @@
          id="path5084"
          d="M 1136,64 V 54 c 0,-2 2,-2 2,-2 l -2,-0.009 -12.0057,12.009 0.01,2 c 0,0 0,-2 2,-2 z"
          style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new" />
+      <path
+         style="display:inline;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         d="m 848,47 v -1 c 0,-1.108 0.892,-2 2,-2 h 220 c 1.108,0 2,0.892 2,2 v 1 c 0,-1.108 -0.892,-2 -2,-2 H 850 c -1.108,0 -2,0.892 -2,2 z"
+         id="path5063"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>
