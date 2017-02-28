@@ -51,19 +51,6 @@
          offset="1"
          id="stop4609" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4665"
-       x="-0.060156141"
-       width="1.1203123"
-       y="-0.059844667"
-       height="1.1196893">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.852212"
-         id="feGaussianBlur4667" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4611"
@@ -207,9 +194,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="499.97996"
-     inkscape:cy="111.40596"
-     inkscape:current-layer="g4816"
+     inkscape:cx="145.49898"
+     inkscape:cy="182.39616"
+     inkscape:current-layer="g5226"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -401,6 +388,13 @@
       <g
          id="g4839">
         <ellipse
+           ry="17.08848"
+           rx="17"
+           cy="70.9114"
+           cx="57.999996"
+           id="ellipse5468"
+           style="display:inline;opacity:0.02;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new" />
+        <ellipse
            ry="8.0010376"
            rx="8.0169897"
            cy="186.99884"
@@ -421,7 +415,7 @@
            id="circle4915"
            style="display:inline;opacity:0.05;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new" />
         <ellipse
-           style="display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4665);enable-background:new"
+           style="display:inline;opacity:0.05;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
            id="ellipse4619"
            cx="57.999996"
            cy="70.9114"
