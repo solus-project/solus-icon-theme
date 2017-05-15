@@ -17,7 +17,7 @@
    height="320"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.92.0 r"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="status-user.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -194,9 +194,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="174.94852"
-     inkscape:cy="95.203922"
-     inkscape:current-layer="svg11300"
+     inkscape:cx="174.18295"
+     inkscape:cy="106.79295"
+     inkscape:current-layer="g4624"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -932,30 +932,6 @@
          id="path5240"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccc" />
-      <path
-         sodipodi:nodetypes="ccc"
-         inkscape:connector-curvature="0"
-         id="path5242"
-         d="m 166.5,228.5 h 2 v -3"
-         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 168.5,184.49999 h 4 v -5"
-         id="path5244"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccc" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 172,133 h 4 v -6"
-         id="path5246"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccc" />
-      <path
-         sodipodi:nodetypes="ccc"
-         inkscape:connector-curvature="0"
-         id="path5248"
-         d="m 176,68.99998 h 8 v -12"
-         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
   </g>
 </svg>
