@@ -312,9 +312,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="479.61929"
-     inkscape:cy="121.90147"
-     inkscape:current-layer="layer9"
+     inkscape:cx="501.58565"
+     inkscape:cy="116.11633"
+     inkscape:current-layer="g4791"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -1013,14 +1013,7 @@
        inkscape:label="emblems">
       <g
          id="g4880"
-         transform="translate(-48.275613,-30.609894)">
-        <ellipse
-           style="display:inline;opacity:0.05;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
-           id="ellipse4772"
-           cx="550.2926"
-           cy="169.60886"
-           rx="8.0169897"
-           ry="8.0010376" />
+         transform="translate(-47.275613,-29.609894)">
         <ellipse
            ry="8.0010376"
            rx="8.0169897"
