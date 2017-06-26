@@ -844,9 +844,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="2335.143"
-     inkscape:cy="238.92594"
-     inkscape:current-layer="g5063"
+     inkscape:cx="441.143"
+     inkscape:cy="228.92594"
+     inkscape:current-layer="g5094"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -1194,6 +1194,84 @@
          x="44"
          y="320"
          inkscape:label="48x48" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g5094"
+       inkscape:label="baseplate (help-faq)"
+       style="display:none">
+      <rect
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         id="rect5074"
+         width="32"
+         height="32"
+         x="320"
+         y="116"
+         inkscape:label="32x32" />
+      <rect
+         inkscape:label="22x22"
+         y="173.05884"
+         x="321"
+         height="22"
+         width="22"
+         id="rect5076"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+      <rect
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         id="rect5078"
+         width="16"
+         height="16"
+         x="320"
+         y="220"
+         inkscape:label="16x16" />
+      <rect
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         id="rect5080"
+         width="24"
+         height="24"
+         x="320"
+         y="172"
+         inkscape:label="24x24" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:125%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         x="31.855944"
+         y="-65.699577"
+         id="text5084"
+         inkscape:label="context"><tspan
+           sodipodi:role="line"
+           id="tspan5082"
+           x="31.855944"
+           y="-65.699577"
+           style="font-weight:bold">actions</tspan></text>
+      <text
+         inkscape:label="icon-name"
+         id="text5088"
+         y="-39.900627"
+         x="31.264769"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:125%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
+           y="-39.900627"
+           x="31.264769"
+           id="tspan5086"
+           sodipodi:role="line">help-faq</tspan></text>
+      <rect
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999976;marker:none;enable-background:accumulate"
+         id="rect5090"
+         width="256"
+         height="256"
+         x="32.000004"
+         y="12.000042"
+         inkscape:label="512x512" />
+      <rect
+         inkscape:label="48x48"
+         y="320"
+         x="44"
+         height="48"
+         width="48"
+         id="rect5092"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         transform="matrix(0,1,1,0,0,0)" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -3117,7 +3195,7 @@
      transform="translate(0,20)">
     <g
        style="display:none"
-       inkscape:label="baseplate"
+       inkscape:label="baseplate (dialog-information)"
        id="g4997"
        inkscape:groupmode="layer">
       <rect
@@ -3192,6 +3270,84 @@
          x="44"
          y="1880"
          inkscape:label="48x48" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g5072"
+       inkscape:label="baseplate (help-about)"
+       style="display:none">
+      <rect
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         id="rect5052"
+         width="32"
+         height="32"
+         x="1880"
+         y="116"
+         inkscape:label="32x32" />
+      <rect
+         inkscape:label="22x22"
+         y="173.05884"
+         x="1881"
+         height="22"
+         width="22"
+         id="rect5054"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+      <rect
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         id="rect5056"
+         width="16"
+         height="16"
+         x="1880"
+         y="220"
+         inkscape:label="16x16" />
+      <rect
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         id="rect5058"
+         width="24"
+         height="24"
+         x="1880"
+         y="172"
+         inkscape:label="24x24" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:125%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         x="1591.856"
+         y="-65.699577"
+         id="text5062"
+         inkscape:label="context"><tspan
+           sodipodi:role="line"
+           id="tspan5060"
+           x="1591.856"
+           y="-65.699577"
+           style="font-weight:bold">actions</tspan></text>
+      <text
+         inkscape:label="icon-name"
+         id="text5066"
+         y="-39.900627"
+         x="1591.2648"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:16.66666603px;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
+           y="-39.900627"
+           x="1591.2648"
+           id="tspan5064"
+           sodipodi:role="line">help-about</tspan></text>
+      <rect
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999976;marker:none;enable-background:accumulate"
+         id="rect5068"
+         width="256"
+         height="256"
+         x="1592"
+         y="12.000042"
+         inkscape:label="512x512" />
+      <rect
+         inkscape:label="48x48"
+         y="1880"
+         x="44"
+         height="48"
+         width="48"
+         id="rect5070"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         transform="matrix(0,1,1,0,0,0)" />
     </g>
     <g
        inkscape:groupmode="layer"
