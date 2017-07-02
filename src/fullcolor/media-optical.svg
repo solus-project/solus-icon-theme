@@ -125,9 +125,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="357.83026"
-     inkscape:cy="226.05582"
-     inkscape:current-layer="layer9"
+     inkscape:cx="143.83026"
+     inkscape:cy="216.05582"
+     inkscape:current-layer="g4560"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -247,7 +247,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer7"
-       inkscape:label="baseplate"
+       inkscape:label="baseplate (media-optical)"
        style="display:none">
       <rect
          style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
@@ -321,6 +321,84 @@
          id="rect6284"
          style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          transform="matrix(0,1,1,0,0,0)" />
+    </g>
+    <g
+       style="display:none"
+       inkscape:label="baseplate (application-x-cd-image)"
+       id="g4560"
+       inkscape:groupmode="layer">
+      <rect
+         inkscape:label="32x32"
+         y="116"
+         x="320"
+         height="32"
+         width="32"
+         id="rect4540"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+      <rect
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         id="rect4542"
+         width="22"
+         height="22"
+         x="321"
+         y="173.05884"
+         inkscape:label="22x22" />
+      <rect
+         inkscape:label="16x16"
+         y="220"
+         x="320"
+         height="16"
+         width="16"
+         id="rect4544"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+      <rect
+         inkscape:label="24x24"
+         y="172"
+         x="320"
+         height="24"
+         width="24"
+         id="rect4546"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+      <text
+         inkscape:label="context"
+         id="text4550"
+         y="-65.699577"
+         x="31.855944"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:125%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
+           style="font-weight:bold"
+           y="-65.699577"
+           x="31.855944"
+           id="tspan4548"
+           sodipodi:role="line">mimetypes</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:125%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         x="31.264769"
+         y="-39.900627"
+         id="text4554"
+         inkscape:label="icon-name"><tspan
+           sodipodi:role="line"
+           id="tspan4552"
+           x="31.264769"
+           y="-39.900627">application-x-cd-image</tspan></text>
+      <rect
+         inkscape:label="512x512"
+         y="12.000042"
+         x="32.000004"
+         height="256"
+         width="256"
+         id="rect4556"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999976;marker:none;enable-background:accumulate" />
+      <rect
+         transform="matrix(0,1,1,0,0,0)"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         id="rect4558"
+         width="48"
+         height="48"
+         x="44"
+         y="320"
+         inkscape:label="48x48" />
     </g>
     <g
        inkscape:groupmode="layer"
