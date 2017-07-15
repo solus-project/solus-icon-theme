@@ -1,9 +1,11 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='system-lock-screen-symbolic.svg' inkscape:export-filename='/home/sam/source-symbolic.png' inkscape:export-xdpi='270' inkscape:export-ydpi='270' height='16' id='svg7384' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' style='enable-background:new' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' inkscape:version='0.91 r' width='16' xmlns='http://www.w3.org/2000/svg'>
-  <sodipodi:namedview inkscape:bbox-nodes='true' inkscape:bbox-paths='false' bordercolor='#666666' borderlayer='false' borderopacity='1' inkscape:current-layer='layer12' inkscape:cx='-60.866365' inkscape:cy='49.62507' gridtolerance='10' inkscape:guide-bbox='true' guidetolerance='10' id='namedview88' inkscape:object-nodes='true' inkscape:object-paths='true' objecttolerance='10' pagecolor='#f7f7f7' inkscape:pageopacity='1' inkscape:pageshadow='2' showborder='true' showgrid='false' showguides='false' inkscape:showpageshadow='false' inkscape:snap-bbox='true' inkscape:snap-bbox-edge-midpoints='false' inkscape:snap-bbox-midpoints='true' inkscape:snap-center='false' inkscape:snap-global='true' inkscape:snap-grids='true' inkscape:snap-intersection-paths='false' inkscape:snap-midpoints='true' inkscape:snap-nodes='true' inkscape:snap-object-midpoints='true' inkscape:snap-others='true' inkscape:snap-page='false' inkscape:snap-smooth-nodes='true' inkscape:snap-to-guides='true' inkscape:window-height='1023' inkscape:window-maximized='1' inkscape:window-width='1920' inkscape:window-x='0' inkscape:window-y='27' inkscape:zoom='1.4142136'>
-    <inkscape:grid color='#000000' dotted='false' empcolor='#0800ff' empopacity='0.4627451' empspacing='4' enabled='true' id='grid4866' opacity='0.16470588' originx='-264' originy='-51.999957' snapvisiblegridlinesonly='true' spacingx='0.25px' spacingy='0.25px' type='xygrid' visible='true'/>
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='system-lock-screen-symbolic.svg' inkscape:export-filename='/home/sam/Junk/source-symbolic.png' inkscape:export-xdpi='96' inkscape:export-ydpi='96' height='16' id='svg7384' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' style='enable-background:new' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' inkscape:version='0.92.1 r' width='16' xmlns='http://www.w3.org/2000/svg'>
+  <sodipodi:namedview inkscape:bbox-nodes='true' inkscape:bbox-paths='false' bordercolor='#666666' borderlayer='false' borderopacity='1' inkscape:current-layer='layer12' inkscape:cx='179.66621' inkscape:cy='87.645729' gridtolerance='10' inkscape:guide-bbox='true' guidetolerance='10' id='namedview88' inkscape:measure-end='0,0' inkscape:measure-start='0,0' inkscape:object-nodes='true' inkscape:object-paths='true' objecttolerance='10' pagecolor='#fafafa' inkscape:pageopacity='1' inkscape:pageshadow='2' showborder='true' showgrid='false' showguides='true' inkscape:showpageshadow='false' inkscape:snap-bbox='true' inkscape:snap-bbox-edge-midpoints='false' inkscape:snap-bbox-midpoints='true' inkscape:snap-center='false' inkscape:snap-global='true' inkscape:snap-grids='true' inkscape:snap-intersection-paths='false' inkscape:snap-midpoints='true' inkscape:snap-nodes='true' inkscape:snap-object-midpoints='true' inkscape:snap-others='true' inkscape:snap-page='false' inkscape:snap-smooth-nodes='true' inkscape:snap-to-guides='true' inkscape:window-height='1018' inkscape:window-maximized='1' inkscape:window-width='1920' inkscape:window-x='0' inkscape:window-y='34' inkscape:zoom='2.8284271'>
+    <inkscape:grid color='#000000' dotted='false' empcolor='#0800ff' empopacity='0.4627451' empspacing='4' enabled='true' id='grid4866' opacity='0.16470588' originx='-256.00017' originy='-72.003357' snapvisiblegridlinesonly='true' spacingx='0.25' spacingy='0.25' type='xygrid' visible='true'/>
+    <sodipodi:guide id='guide6512' inkscape:locked='false' orientation='0,1' position='452.99983,328.99664'/>
+    <sodipodi:guide id='guide6516' inkscape:locked='false' orientation='1,0' position='223.99983,207.99664'/>
   </sodipodi:namedview>
   <metadata id='metadata90'>
     <rdf:RDF>
@@ -11,22 +13,27 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
         <dc:title>Solus Symbolic Icon Theme</dc:title>
-        <cc:license rdf:resource='http://creativecommons.org/licenses/by-sa/3.0/'/>
+        <cc:license rdf:resource='http://creativecommons.org/licenses/by-nc/4.0/'/>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Sam Hewitt</dc:title>
+          </cc:Agent>
+        </dc:creator>
       </cc:Work>
-      <cc:License rdf:about='http://creativecommons.org/licenses/by-sa/3.0/'>
+      <cc:License rdf:about='http://creativecommons.org/licenses/by-nc/4.0/'>
         <cc:permits rdf:resource='http://creativecommons.org/ns#Reproduction'/>
         <cc:permits rdf:resource='http://creativecommons.org/ns#Distribution'/>
         <cc:requires rdf:resource='http://creativecommons.org/ns#Notice'/>
         <cc:requires rdf:resource='http://creativecommons.org/ns#Attribution'/>
+        <cc:prohibits rdf:resource='http://creativecommons.org/ns#CommercialUse'/>
         <cc:permits rdf:resource='http://creativecommons.org/ns#DerivativeWorks'/>
-        <cc:requires rdf:resource='http://creativecommons.org/ns#ShareAlike'/>
       </cc:License>
     </rdf:RDF>
   </metadata>
   <title id='title8473'>Solus Symbolic Icon Theme</title>
   <defs id='defs7386'>
     <linearGradient id='linearGradient6882' osb:paint='solid'>
-      <stop id='stop6884' offset='0' style='stop-color:#4c5263;stop-opacity:1;'/>
+      <stop id='stop6884' offset='0' style='stop-color:#555555;stop-opacity:1;'/>
     </linearGradient>
     <linearGradient id='linearGradient5606' osb:paint='solid'>
       <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
@@ -35,15 +42,16 @@
       <feBlend inkscape:collect='always' id='feBlend7556' in2='BackgroundImage' mode='darken'/>
     </filter>
   </defs>
-  <g inkscape:groupmode='layer' id='layer9' inkscape:label='status' style='display:inline' transform='translate(-505.0002,-165.00004)'/>
-  <g inkscape:groupmode='layer' id='layer10' inkscape:label='devices' style='display:inline;filter:url(#filter7554)' transform='translate(-505.0002,-165.00004)'/>
-  <g inkscape:groupmode='layer' id='layer1' inkscape:label='places' style='display:inline' transform='translate(-264,-782.00004)'/>
-  <g inkscape:groupmode='layer' id='layer14' inkscape:label='mimetypes' style='display:inline' transform='translate(-505.0002,-165.00004)'/>
-  <g inkscape:groupmode='layer' id='layer15' inkscape:label='emblems' style='display:inline' transform='translate(-505.0002,-165.00004)'/>
-  <g inkscape:groupmode='layer' id='g71291' inkscape:label='emotes' style='display:inline' transform='translate(-505.0002,-165.00004)'/>
-  <g inkscape:groupmode='layer' id='layer2' inkscape:label='categories' style='display:inline' transform='translate(-264,-632.00004)'/>
-  <g inkscape:groupmode='layer' id='layer12' inkscape:label='actions' style='display:inline' transform='translate(-505.0002,-165.00004)'>
-    <path inkscape:connector-curvature='0' d='m 513.00281,166.0034 c -2.216,0 -4,1.82162 -4,4.0625 l 0,1.9375 -2,0 0,8 12,0 0,-8 -2,0 0,-1.9375 c 0,-2.24 -1.784,-4.0625 -4,-4.0625 z m 0,2 c 1.108,0 2,0.892 2,2 l 0,2 -4,0 0,-2 c 0,-1.108 0.892,-2 2,-2 z' id='path5739-9' style='color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate'/>
+  <g inkscape:groupmode='layer' id='layer9' inkscape:label='status' style='display:inline' transform='translate(-497.00037,-144.99664)'/>
+  <g inkscape:groupmode='layer' id='layer1' inkscape:label='places' style='display:inline' transform='translate(-256.00017,-761.99664)'/>
+  <g inkscape:groupmode='layer' id='layer14' inkscape:label='mimetypes' style='display:inline' transform='translate(-497.00037,-144.99664)'/>
+  <g inkscape:groupmode='layer' id='g71291' inkscape:label='emotes' style='display:inline' transform='translate(-497.00037,-144.99664)'/>
+  <g inkscape:groupmode='layer' id='layer15' inkscape:label='emblems' style='display:inline' transform='translate(-497.00037,-144.99664)'/>
+  <g inkscape:groupmode='layer' id='layer10' inkscape:label='devices' style='display:inline;filter:url(#filter7554)' transform='translate(-497.00037,-144.99664)'/>
+  <g inkscape:groupmode='layer' id='layer2' inkscape:label='categories' style='display:inline' transform='translate(-256.00017,-611.99664)'/>
+  <g inkscape:groupmode='layer' id='layer3' inkscape:label='apps' transform='translate(-256.00017,-871.99664)'/>
+  <g inkscape:groupmode='layer' id='layer12' inkscape:label='actions' style='display:inline' transform='translate(-497.00037,-144.99664)'>
     
+    <path inkscape:connector-curvature='0' d='m 505.0002,146 c -2.216,0 -4,1.8217 -4,4.0625 V 152 h -1.5 c -0.5,0 -0.5,0.5 -0.5,0.5 v 7 c 0,0.5 0.5,0.5 0.5,0.5 h 11 c 0,0 0.5,0 0.5,-0.5 v -7 l -0.5,-0.5 h -1.5 v -1.9375 c 0,-2.2398 -1.784,-4.0625 -4,-4.0625 z m 0,2 c 1.108,0 2,0.8848 2,2 v 2 h -4 v -2 c 0,-1.1152 0.892,-2 2,-2 z' id='path7984' sodipodi:nodetypes='ssccccccccccssssccss' style='display:inline;fill:#4f555d;fill-opacity:1;stroke:none;stroke-width:1;enable-background:new'/>
   </g>
 </svg>
